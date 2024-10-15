@@ -14,6 +14,8 @@ curl --location 'localhost:8080/hello' --header 'Authorization: Bearer <выхл
 ```
 Но лучше смотреть тест HelloControllerTests 
 ### Доки 
-https://github.com/spring-projects/spring-security-samples/tree/6.3.x/servlet/spring-boot/java/jwt/login
-https://www.baeldung.com/spring-security-method-security
-https://bootify.io/spring-security/signing-jwts-with-private-key-spring-security.html
+<https://github.com/spring-projects/spring-security-samples/tree/6.3.x/servlet/spring-boot/java/jwt/login>  
+<https://www.baeldung.com/spring-security-method-security>  
+<https://bootify.io/spring-security/signing-jwts-with-private-key-spring-security.html>  
+<https://www.geeksforgeeks.org/spring-boot-3-0-jwt-authentication-with-spring-security-using-mysql-database>  
+<https://habr.com/ru/articles/784508>  
